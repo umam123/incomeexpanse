@@ -1,2 +1,5 @@
 streamlit
-deta
+plotly.graph_objects
+datetime
+calendar
+streamlit_option_menu
