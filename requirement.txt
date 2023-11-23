@@ -1,6 +1,5 @@
 streamlit
-plotly
+plotly==5.3.1
 datetime
 calendar
 streamlit_option_menu
-graph_objects
