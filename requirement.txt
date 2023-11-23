@@ -3,3 +3,4 @@ plotly
 datetime
 calendar
 streamlit_option_menu
+graph_objects
