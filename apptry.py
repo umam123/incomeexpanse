@@ -1,7 +1,5 @@
 import calendar  # Core Python Module
 from datetime import datetime  # Core Python Module
-
-import plotly.graph_objects as go  # pip install plotly
 import streamlit as st  # pip install streamlit
 from streamlit_option_menu import option_menu  # pip install streamlit-option-menu
 
