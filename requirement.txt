@@ -1,5 +1,5 @@
-streamlit
-plotly==5.3.1
 datetime
 calendar
-streamlit_option_menu
+streamlit==1.10.0
+streamlit_option_menu==0.3.2
+plotly==4.14.3
